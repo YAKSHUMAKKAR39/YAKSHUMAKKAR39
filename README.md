@@ -23,6 +23,14 @@
 
 - 📫 How to reach me **yakshumakkar39@gmail.com**
  <br><br>
+ <hr style="border:1px white"> </hr>
+</br>
+<p align="center">
+<a href="https://github.com/Vaishnavi7279">
+<img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi7279&theme=algolia&count_private=true" alt="Vaishnavi7279"/> 
+</a>
+</p>
+</br>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
