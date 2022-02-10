@@ -26,8 +26,8 @@
  <hr style="border:1px white"> </hr>
 </br>
 <p align="center">
-<a href="https://github.com/Vaishnavi7279">
-<img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi7279&theme=algolia&count_private=true" alt="Vaishnavi7279"/> 
+<a href="https://github.com/YAKSHUMAKKAR39">
+<img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=YAKSHUMAKKAR39&theme=algolia&count_private=true" alt="YAKSHUMAKKAR39"/> 
 </a>
 </p>
 </br>
